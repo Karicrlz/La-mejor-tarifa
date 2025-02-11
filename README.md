@@ -1,1 +1,4 @@
-# La-mejor-tarifa
+#  📱🧾La mejor tarifa 💵📱
+En este proyecto, trabajé como analista para Megaline, un operador de telecomunicaciones que ofrece dos tarifas de prepago: Surf y Ultimate. El departamento comercial solicitó un análisis para determinar cuál de las tarifas genera más ingresos, con el fin de ajustar su presupuesto de publicidad.
+El análisis se centró en una muestra de 500 clientes, incluyendo datos sobre su ubicación, la tarifa que usan, y su actividad durante 2018, como el número de llamadas realizadas y los mensajes de texto enviados. El objetivo fue estudiar el comportamiento de los clientes para identificar qué tarifa es más rentable.📈
+Durante el proceso, se realizaron varias etapas clave de análisis, como el cálculo de ingresos por cliente en función de las tarifas y el uso de servicios, la comparación de los ingresos generados por cada tarifa, y la interpretación de los resultados para ofrecer recomendaciones al departamento comercial. Este análisis permitió determinar qué tarifa estaba generando mayores ingresos, ayudando a la empresa a tomar decisiones informadas sobre su estrategia de publicidad.
